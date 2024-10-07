@@ -216,3 +216,6 @@ $RECYCLE.BIN/
 
 *.yml
 application.yml
+build/*
+.gradle
+build
