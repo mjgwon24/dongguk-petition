@@ -217,5 +217,7 @@ $RECYCLE.BIN/
 *.yml
 application.yml
 build/*
+build/
 .gradle
+gradle/
 build
